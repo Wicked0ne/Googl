@@ -52,7 +52,7 @@ public class Googl {
 		stringbldr.append(line + '\n');
 	    }
 
-	    System.out.println(stringbldr.toString());
+//	    System.out.println(stringbldr.toString());
 	    
 	    JSONObject jObject  = new JSONObject(stringbldr.toString());
 //	    shortURL = jObject.getJSONObject("id").toString();
