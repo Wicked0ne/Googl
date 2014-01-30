@@ -1,0 +1,1 @@
+A simple java wrapper for goo.gl's url shortening api.
